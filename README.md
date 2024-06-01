@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsh Nandu
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Bachelor's in Statics
+- 🌱 I’m currently learning Bachelor's in Statistics
 - 💞️ I’m looking to collaborate on projects related to data science 
 - 📫 How to reach me harshnandu03@gmail.com  , insta - _harsh_nandu
 
